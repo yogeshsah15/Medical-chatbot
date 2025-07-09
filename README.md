@@ -6,3 +6,5 @@ A  responsive AI chatbot whose information is derived from a medical encylopedia
 3rd step- create -n app python=3.10
 4th step-activate app
 5th step-install all the requirement 
+
+pip install -r requirements.txt
