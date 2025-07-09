@@ -1,4 +1,4 @@
-# End-to-End Medical Chatbot with Generative AI
+# Medical-Chatbot with Generative AI
 
 This project implements an end-to-end medical chatbot powered by Generative AI. The chatbot assists users with medical inquiries by providing accurate and context-aware responses. It leverages state-of-the-art AI models and integrates seamlessly with a backend API for enhanced functionality.
 
